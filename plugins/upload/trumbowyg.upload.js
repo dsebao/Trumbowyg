@@ -63,6 +63,11 @@
                 file: 'Súbor',
                 uploadError: 'Chyba'
             },
+            es: {
+                upload: 'Subir',
+                file: 'Archivo',
+                uploadError: 'Error'
+            },
             fr: {
                 upload: 'Envoi',
                 file: 'Fichier',
